@@ -1,0 +1,67 @@
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link.disabled{
+	color:white;
+
+}
+body{
+
+	background-size: cover;
+	background-position: center;
+	position: center;
+	justify-content:center;
+
+
+}
+.navbar{
+	background-size: cover;
+
+}
+h1{
+
+	color: white;
+	padding-top: 10%;
+	text-align: center;
+
+	
+
+}
+.btn{
+	color: black;
+}
+h2{
+	color: black;
+	padding-top: 0%;
+	text-align: center;
+}
+
+.mb{
+	background:url();
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: center;
+	justify-content:center;
+
+}
+.mb{
+	padding-top: 5%;
+	size:500px;
+}
+.rounded{
+	height: 100%;
+	background: grey;
+	position: left;
+}
+.col-̂10{
+	color: black;
+}
+.ls{
+	text-align:left;
+}
+.passy{
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color:grey;
+}

@@ -1,0 +1,13 @@
+body{
+	background:rgb(255,255,255);
+}
+.navbar-light .navbar-nav .active > .nav-link,.navbar-light .navbar-brand,.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link,.navbar-light .navbar-nav .nav-link.disabled{
+	color:white;
+}
+.bg{
+	background-image: url(https://images.unsplash.com/photo-1560382797-66b2d275cb56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+	height:500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
